@@ -23,7 +23,7 @@ class RNNConfig():
 
 
 DEFAULT_CONFIG = RNNConfig()
-print "Default configuration:", DEFAULT_CONFIG.to_dict()
+print ("Default configuration:", DEFAULT_CONFIG.to_dict())
 
 DATA_DIR = "data"
 LOG_DIR = "logs"
