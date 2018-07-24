@@ -1,0 +1,6 @@
+model_checkpoint_path: "stock_rnn_lstm128_step30_input1.model-3450"
+all_model_checkpoint_paths: "stock_rnn_lstm128_step30_input1.model-2801"
+all_model_checkpoint_paths: "stock_rnn_lstm128_step30_input1.model-3001"
+all_model_checkpoint_paths: "stock_rnn_lstm128_step30_input1.model-3201"
+all_model_checkpoint_paths: "stock_rnn_lstm128_step30_input1.model-3401"
+all_model_checkpoint_paths: "stock_rnn_lstm128_step30_input1.model-3450"
